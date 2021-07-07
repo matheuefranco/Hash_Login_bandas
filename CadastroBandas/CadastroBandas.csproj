@@ -116,7 +116,6 @@
   <ItemGroup>
     <Compile Include="Banda.cs" />
     <Compile Include="ConectaBanco.cs" />
-    <Compile Include="Hash.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
