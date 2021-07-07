@@ -1,0 +1,148 @@
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\CadastroBandas.exe
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\CadastroBandas.pdb
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.csprojResolveAssemblyReference.cache
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.Form1.resources
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.Cache
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.exe
+c:\users\m.franco\documents\visual studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.pdb
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\MetroFramework.dll
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.Form2.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\CadastroBandas.exe
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\CadastroBandas.pdb
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\bin\Debug\MetroFramework.dll
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.csprojResolveAssemblyReference.cache
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.Form1.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.Form2.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.Cache
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.exe
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas\CadastroBandas\obj\Debug\CadastroBandas.pdb
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.exe
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.pdb
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\bin\Debug\CadastroBandas.exe
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\bin\Debug\CadastroBandas.pdb
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\bin\Debug\MetroFramework.dll
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.csprojResolveAssemblyReference.cache
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.Form1.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.Form2.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+C:\Users\mefma\Documents\Visual Studio 2013\Projects\CadastroBandas2018\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.Cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\bin\Debug\CadastroBandas.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\bin\Debug\CadastroBandas.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.csproj.CopyComplete
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\Bandas Database 2019\CadastroBandas\obj\Debug\CadastroBandas.Sistema.resources
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\CadastroBandas.exe
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\CadastroBandas.pdb
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\obj\Debug\CadastroBandas.Sistema.resources
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.cache
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\obj\Debug\CadastroBandas.exe
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\obj\Debug\CadastroBandas.pdb
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\Google.Protobuf.dll
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\MySql.Data.dll
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\Renci.SshNet.dll
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\Google.Protobuf.xml
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\MySql.Data.xml
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\bin\Debug\Renci.SshNet.xml
+C:\Users\mefma\Source\Repos\CadastroBandasDatabaseAula\CadastroBandas\obj\Debug\CadastroBandas.csprojResolveAssemblyReference.cache
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.csprojAssemblyReference.cache
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.Sistema.resources
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.cache
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.exe
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.pdb
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\CadastroBandas.exe
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\CadastroBandas.pdb
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\BouncyCastle.Crypto.dll
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\Google.Protobuf.dll
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\MySql.Data.dll
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\Renci.SshNet.dll
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\Google.Protobuf.xml
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\MySql.Data.xml
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\bin\Debug\Renci.SshNet.xml
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.csproj.CoreCompileInputs.cache
+D:\mef\IF\Linguagem\Semana 10 - C#\CadastroBandasC#\CadastroBandasModel\CadastroBandas\obj\Debug\CadastroBandas.csproj.CopyComplete
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\CadastroBandas.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\CadastroBandas.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Google.Protobuf.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\MySql.Data.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Renci.SshNet.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Buffers.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Memory.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Zstandard.Net.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Google.Protobuf.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Google.Protobuf.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\MySql.Data.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\Renci.SshNet.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Buffers.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Memory.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.Sistema.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.csproj.CopyComplete
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2020\CadastroBandas\obj\Debug\CadastroBandas.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\CadastroBandas.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\CadastroBandas.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\CadastroBandas.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Google.Protobuf.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\MySql.Data.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Renci.SshNet.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Buffers.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Memory.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Zstandard.Net.dll
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Google.Protobuf.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Google.Protobuf.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\MySql.Data.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\Renci.SshNet.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Buffers.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Memory.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.Login.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.Sistema.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.csproj.CopyComplete
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\CadastroBandas2021-HASH_Login\CadastroBandas\obj\Debug\CadastroBandas.pdb
