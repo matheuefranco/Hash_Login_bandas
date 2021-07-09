@@ -19,7 +19,22 @@ namespace CadastroBandas
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            
+            ConectaBanco con = new ConectaBanco();
+            if (con.consultaUsuario(txtuser.Text, txtpass.Text) == true)
+            {
+                Sistema formSistema = new Sistema();
+                formSistema.Show();
+            }// fim if
+            else
+                MessageBox.Show("Usuario ou senha incorreta :(");
+
+
+        }
+
+        private void btnCadUser_Click(object sender, EventArgs e)
+        {
+            CadastraUsuario formCadUser = new CadastraUsuario();
+            formCadUser.Show();
         }
     }
 }

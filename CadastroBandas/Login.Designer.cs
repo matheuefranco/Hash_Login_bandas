@@ -34,12 +34,12 @@ namespace CadastroBandas
             this.label4 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnCadUser = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.txtpass = new System.Windows.Forms.MaskedTextBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnCadUser = new System.Windows.Forms.Button();
             this.btnLogin = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -89,6 +89,25 @@ namespace CadastroBandas
             this.panel1.Size = new System.Drawing.Size(709, 61);
             this.panel1.TabIndex = 20;
             // 
+            // btnCadUser
+            // 
+            this.btnCadUser.FlatAppearance.BorderSize = 0;
+            this.btnCadUser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCadUser.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCadUser.ForeColor = System.Drawing.Color.White;
+            this.btnCadUser.Image = ((System.Drawing.Image)(resources.GetObject("btnCadUser.Image")));
+            this.btnCadUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnCadUser.Location = new System.Drawing.Point(546, 4);
+            this.btnCadUser.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCadUser.Name = "btnCadUser";
+            this.btnCadUser.Size = new System.Drawing.Size(163, 60);
+            this.btnCadUser.TabIndex = 4;
+            this.btnCadUser.Text = "Cadastrar";
+            this.btnCadUser.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnCadUser.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnCadUser.UseVisualStyleBackColor = true;
+            this.btnCadUser.Click += new System.EventHandler(this.btnCadUser_Click);
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -136,24 +155,6 @@ namespace CadastroBandas
             this.pictureBox1.Size = new System.Drawing.Size(96, 81);
             this.pictureBox1.TabIndex = 23;
             this.pictureBox1.TabStop = false;
-            // 
-            // btnCadUser
-            // 
-            this.btnCadUser.FlatAppearance.BorderSize = 0;
-            this.btnCadUser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCadUser.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCadUser.ForeColor = System.Drawing.Color.White;
-            this.btnCadUser.Image = ((System.Drawing.Image)(resources.GetObject("btnCadUser.Image")));
-            this.btnCadUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCadUser.Location = new System.Drawing.Point(546, 4);
-            this.btnCadUser.Margin = new System.Windows.Forms.Padding(4);
-            this.btnCadUser.Name = "btnCadUser";
-            this.btnCadUser.Size = new System.Drawing.Size(163, 60);
-            this.btnCadUser.TabIndex = 4;
-            this.btnCadUser.Text = "Cadastrar";
-            this.btnCadUser.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCadUser.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnCadUser.UseVisualStyleBackColor = true;
             // 
             // btnLogin
             // 

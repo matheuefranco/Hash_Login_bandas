@@ -115,7 +115,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Banda.cs" />
+    <Compile Include="CadastraUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastraUsuario.Designer.cs">
+      <DependentUpon>CadastraUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="ConectaBanco.cs" />
+    <Compile Include="Hash.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
